@@ -22,16 +22,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Twix-Akshat/Leetcode-DSA_Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
